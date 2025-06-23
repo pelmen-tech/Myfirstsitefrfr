@@ -1,0 +1,14 @@
+/project-root
+│
+├── index.html          # Главная
+├── catalog.html        # Каталог
+├── product.html        # Страница товара
+├── cart.html           # Корзина
+├── contact.html        # Контакты
+│
+├── /css                # Стили
+├── /js                 # Скрипты
+├── /img                # Картинки товаров
+├── /admin              # Страницы для управления
+│
+├── /server             # Серверная часть (Node.js или PHP)
